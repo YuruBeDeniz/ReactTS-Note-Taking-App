@@ -50,4 +50,5 @@ react-router-dom
 react-bootstrap
 bootstrap
 react-select
+
 # ReactTS-Note-Taking-App
